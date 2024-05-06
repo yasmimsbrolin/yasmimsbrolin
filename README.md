@@ -6,7 +6,7 @@ Meu nome é Yasmim Sbrolin
 - Estou me desenvolvendo na linguaem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### Você emtrar em contato comigo 📫
+- ### Você entrar em contato comigo 📫
 
   yasmim.sbrolin@gmail.com
 
